@@ -67,5 +67,5 @@ Você pode verificar o valor de **D** utilizando o site:
 
 ---
 
-## 📁 Estrutura de Arquivos
+
 
