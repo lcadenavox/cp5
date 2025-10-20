@@ -66,6 +66,6 @@ Você pode verificar o valor de **D** utilizando o site:
 - É importante **manter D em sigilo**, pois ele permite a decifragem das mensagens criptografadas.
 
 ---
-
+## IDE utilizada: Intelli J
 
 
